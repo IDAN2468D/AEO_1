@@ -1,0 +1,338 @@
+@charset "utf-8";
+body {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	background-image: url(../img/15476-wood-texture-1920x1200-abstract-wallpaper.jpg);
+	background-attachment: fixed;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.logo {
+	background-image: url(../img/logo.png);
+	height: 340px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.idan {
+	height: 1590px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	border-left: 3px dashed #8EBDD4;
+	border-right: 3px dashed #8EBDD4;
+	border-top: 3px dashed #8EBDD4;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-image: url(../img/jeans_texture1753.jpg);
+}
+.futer {
+	height: 173px;
+	width: 960px;
+	color: #FFFFFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+	border-right: 3px dashed #8EBDD4;
+	border-bottom: 3px dashed #8EBDD4;
+	border-left: 3px dashed #8EBDD4;
+	background-image: url(../img/jeans_texture1753.jpg);
+	padding-top: 20px;
+}
+.menu {
+	height: 155px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#flashContent {
+	width: 953px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.idan h1 {
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: underline;
+}
+.idan .pic_1 {
+	width: 200px;
+	height: 299px;
+	margin-top: 30px;
+	margin-right: 10px;
+	float: right;
+}
+.idan .text_1 {
+	width: 250px;
+	height: 299px;
+	margin-top: 30px;
+	margin-left: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	float: right;
+	background-image: url(../img/sbs_items.1179945181.1.b.jpg);
+}
+.idan .text_1 p {
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.idan .text_1 li {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.facebook {
+	width: 48px;
+	height: 48px;
+	text-align: center;
+}
+.facebook:hover {
+	opacity: 0.7;
+}
+.twiter {
+	width: 48px;
+	height: 48px;
+	text-align: center;
+}
+.twiter:hover {
+	opacity: 0.7;
+}
+.instegram {
+	width: 48px;
+	height: 48px;
+	text-align: center;
+}
+.instegram:hover {
+	opacity: 0.7;
+}
+.goggle {
+	width: 48px;
+	height: 48px;
+	text-align: center;
+}
+.goggle:hover {
+	opacity: 0.7;
+}
+.social {
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.menu_2 {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	font-size: 30px;
+}
+.home_page a {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+}
+.home_page a:hover {
+	color: #FF0000;
+}
+.About a {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+}
+.About a:hover {
+	color: #FF0004;
+}
+.jaens_man a {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+}
+.jaens_man a:hover  {
+	color: #FF0004;
+}
+.jeans_girl a {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+}
+.jeans_girl a:hover  {
+	color: #FF0004;
+}
+.Contact_us a  {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+}
+.Contact_us a:hover   {
+	color: #FF0003;
+}
+.futer h1 {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 30px;
+
+}
+.idan .jaens_man_2 {
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}
+tbody tr .skinny  {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	width: 170px;
+	background-color: #00AEE3;
+}
+tbody tr .skinny a  {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	font-size: 25px;
+}
+tbody tr .skinny a:hover   {
+	color: #FF0004;
+}
+tbody tr .slim  {
+	text-align: center;
+	text-decoration: none;
+	width: 170px;
+	background-color: #00AEE3;
+}
+tbody tr .slim a  {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 25px;
+	text-decoration: none;
+}
+tbody tr .slim a:hover   {
+	color: #FF0004;
+}
+tr .slim_straight  {
+	width: 170px;
+	text-align: center;
+	background-color: #00AEE3;
+}
+tr .slim_straight a  {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	font-size: 25px;
+	background-color: #00AEE3;
+}
+tr .slim_straight a:hover   {
+	color: #FF0004;
+	background-color: #00AEE3;
+}
+tr .original_straight {
+	width: 170px;
+	text-align: center;
+	background-color: #00AEE3;
+}
+tr .original_straight a {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 25px;
+	text-decoration: none;
+}
+tr .original_straight a:hover  {
+	color: #FF0004;
+}
+tbody tr .origenal.taper {
+	width: 220px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 25px;
+	background-color: #00AEE3;
+}
+tbody tr .origenal.taper:hover  {
+	color: #FF0004;
+}
+.idan .jeans_girl_2 {
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+}
+tbody tr .Skinny_a {
+	width: 142px;
+	text-align: center;
+	background-color: #00AEE3;
+}
+tbody tr .Skinny_a a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 25px;
+}
+tbody tr .Skinny_a a:hover  {
+	color: #FF0004;
+}
+tbody tr .Jegging_a  {
+	text-align: center;
+	width: 151px;
+	background-color: #00AEE3;
+}
+tbody tr .Jegging_a a  {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 25px;
+}
+tbody tr .Jegging_a a:hover   {
+	color: #FF0004;
+}
+tr .Hi-Rise_Jegging_a {
+	text-align: center;
+	width: 170px;
+	background-color: #00AEE3;
+	padding-bottom: 5px;
+}
+tr .Hi-Rise_Jegging_a a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 22px;
+}
+tr .Hi-Rise_Jegging_a a:hover  {
+	color: #FF0004;
+}
+tr .Sky.High_Jegging_a  {
+	width: 150px;
+	text-align: center;
+	background-color: #00AEE3;
+	padding-bottom: 5px;
+}
+tr .Sky.High_Jegging_a a  {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 22px;
+}
+tr .Sky.High_Jegging_a a:hover   {
+	color: #FF0004;
+}
+tbody tr .Kick.Boot_a {
+	width: 145px;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 25px;
+	background-color: #00AEE3;
+}
+tbody tr .Kick.Boot_a:hover  {
+	color: #FF0004;
+}
+tbody tr .AEO:hover  {
+	opacity: 0.7;
+}
+tbody tr .AEO  {
+	width: 48px;
+	height: 48px;
+}
